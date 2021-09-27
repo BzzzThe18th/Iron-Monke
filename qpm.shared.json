@@ -53,7 +53,7 @@
           ]
         }
       },
-      "version": "2.2.5"
+      "version": "2.3.2"
     },
     {
       "dependency": {
@@ -69,7 +69,7 @@
         "versionRange": ">=0.1.2<0.3.0",
         "additionalData": {}
       },
-      "version": "0.2.1"
+      "version": "0.2.3"
     },
     {
       "dependency": {
@@ -77,7 +77,7 @@
         "versionRange": "*",
         "additionalData": {}
       },
-      "version": "0.8.0"
+      "version": "0.9.0"
     },
     {
       "dependency": {
@@ -85,7 +85,7 @@
         "versionRange": "*",
         "additionalData": {}
       },
-      "version": "1.6.1"
+      "version": "1.6.2"
     },
     {
       "dependency": {
@@ -93,7 +93,7 @@
         "versionRange": "*",
         "additionalData": {}
       },
-      "version": "0.12.6"
+      "version": "0.12.7"
     },
     {
       "dependency": {
@@ -105,7 +105,15 @@
           ]
         }
       },
-      "version": "2.2.4"
+      "version": "2.3.0"
+    },
+    {
+      "dependency": {
+        "id": "libil2cpp",
+        "versionRange": ">=0.1.2<0.3.0",
+        "additionalData": {}
+      },
+      "version": "0.2.2"
     },
     {
       "dependency": {
@@ -113,7 +121,7 @@
         "versionRange": "*",
         "additionalData": {}
       },
-      "version": "0.2.2"
+      "version": "0.2.3"
     },
     {
       "dependency": {
@@ -129,7 +137,7 @@
         "versionRange": "*",
         "additionalData": {}
       },
-      "version": "0.2.3"
+      "version": "0.2.4"
     }
   ]
 }

@@ -147,12 +147,10 @@ MAKE_HOOK_MATCH(GorillaTagManager_Update, &GlobalNamespace::GorillaTagManager::U
         if(rightInput) {
             Transform* rightHandT = player->rightHandTransform;
             playerPhysics->AddForce(rightHandT->get_right() * thrust);
-            INFO("BUZZ Right input");
         }
         if(leftInput) {
             Transform* leftHandT = player->leftHandTransform;
             playerPhysics->AddForce(leftHandT->get_right() * -thrust);
-            INFO("BUZZ Left input");
         }
 
         bool wasInput = leftInput | rightInput;
